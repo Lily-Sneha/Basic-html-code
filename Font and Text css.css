@@ -1,0 +1,82 @@
+* {
+    box-sizing: border-box;
+    word-spacing: 2px;
+}
+
+h1 {
+    color: rgba(102, 13, 13, 0.967);
+    text-shadow: 2px 2px #5afc7d;
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h3 {
+    color: rgba(102, 13, 13, 0.967);
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+.about,
+p {
+    font-family: sans-serif;
+}
+
+.sajheabout{
+font-weight: bold;
+}
+
+.para {
+    color: red;
+    margin: 9px;
+    text-align: center;
+    text-transform: capitalize;
+    line-height: 30px;
+}
+
+.courses3 {
+    display: flex;
+    text-decoration: column;
+    text-align: center;
+    background-color: #ffc0cb5e;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+figcaption{
+    font-variant: small-caps;
+}
+
+.mngimg {
+    padding: 6px;
+    height: 300px;
+    width: 300px;
+}
+
+.tarimg {
+    padding: 6px;
+    height: 300px;
+    width: 300px;
+}
+
+.arohimg {
+    padding: 6px;
+    height: 300px;
+    width: 300px;
+}
+
+.sajheimg {
+    height: 400px;
+    width: 1500px;
+}
+
+.foot{
+    background-color: rgb(236, 231, 231);
+}
+
+h4{
+    font-size: 20px;
+    padding: 4px;
+}
+footer{
+    padding: 4px;
+}
